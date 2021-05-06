@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Programming 2 MYN:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Programming_2_MYN_jar</output-path>
+    <root id="archive" name="Programming 2 MYN.jar">
+      <element id="module-output" name="Programming 2 MYN" />
+    </root>
+  </artifact>
+</component>
